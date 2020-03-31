@@ -3,6 +3,9 @@ The International Coffee Organization (ICO) is one of coffee's oldest data colle
 
 An important glossary of terms is located here: http://www.ico.org/glossary.asp
 
+### Index of Visualizations
+[Viz A. Coffee Prices paid to producers by coffee type](#Viz.-A)
+
 ## Step 1 - Clean the data.
 Because the data source was available in .xlsx with an obvious presentation purpose in mind, the data had to be sepatrated into new sheets with specified categories and saved as .csv. With Python and Jupyter Notebooks, the data was further cleaned and then prepared for some plotting with MatplotLib.
 
@@ -15,7 +18,8 @@ Because we are looking at y_value over time (1990-2018), a line graph was best s
 
 To be continued...
 
-### Data Set A - Visualizing coffee prices paid to producers based on coffee type.
+### Viz. A
+#### Coffee Prices paid to producers by coffee type
 
 ![](Farmgate_Data/output_files/colombian-milds-1990-2018.png)
 ![](Farmgate_Data/output_files/other-milds-1990-2018.png)
