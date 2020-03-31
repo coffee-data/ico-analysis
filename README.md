@@ -5,6 +5,10 @@ An important glossary of terms is located here: http://www.ico.org/glossary.asp
 
 ### Index of Visualizations
 [A. Coffee Price to Producers by Type](#Coffee-Prices-to-Producers-by-Type)
+  [1. Colombian Milds](#colombian-milds)
+  [2. Other Milds](#other-milds)
+  [3. Brazlilian Naturals](#brazilian-naturals)
+  [4. Robustas](#robustas)
 
 ## Step 1 - Clean the data.
 Because the data source was available in .xlsx with an obvious presentation purpose in mind, the data had to be sepatrated into new sheets with specified categories and saved as .csv. With Python and Jupyter Notebooks, the data was further cleaned and then prepared for some plotting with MatplotLib.
@@ -22,7 +26,14 @@ To be continued...
 
 ## Coffee Prices to Producers by Type
 
+### Colombian Milds
 ![](Farmgate_Data/output_files/colombian-milds-1990-2018.png)
+
+### Other Milds
 ![](Farmgate_Data/output_files/other-milds-1990-2018.png)
+
+### Brazilian Naturals
 ![](Farmgate_Data/output_files/brazilian-naturals-1990-2018.png)
+
+### Robustas
 ![](Farmgate_Data/output_files/robustas-1990-2018.png)
