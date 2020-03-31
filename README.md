@@ -1,6 +1,8 @@
 # A look at ICO Historical Data
 The International Coffee Organization (ICO) is one of coffee's oldest data collection agents. This project looks at the publically available historical data at http://www.ico.org/new_historical.asp and creates graphs to (1) visualize that data and (2) reference the visualization for futrher analysis.
 
+An important glossary of terms is located here: http://www.ico.org/glossary.asp
+
 ## Step 1 - Clean the data.
 Because the data source was available in .xlsx with an obvious presentation purpose in mind, the data had to be sepatrated into new sheets with specified categories and saved as .csv. With Python and Jupyter Notebooks, the data was further cleaned and then prepared for some plotting with MatplotLib.
 
