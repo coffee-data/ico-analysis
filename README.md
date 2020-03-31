@@ -1,5 +1,5 @@
 # A look at ICO Historical Data
-The International Coffee Organization (ICO) is one of coffee's oldest data collection agents. This project looks at the publically available historical data at http://www.ico.org/new_historical.asp and creates graphs to (1) visualize that data and (2) reference the visualization for futrher analysis.
+The International Coffee Organization (ICO) is one of coffee's oldest data collection agents. This project looks at the publically available historical data at http://www.ico.org/new_historical.asp and creates graphs to (1) visualize that data and (2) reference the visualization for further analysis.
 
 An important glossary of terms is located here: http://www.ico.org/glossary.asp
 
