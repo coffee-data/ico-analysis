@@ -18,8 +18,9 @@ Because we are looking at y_value over time (1990-2018), a line graph was best s
 
 To be continued...
 
-### Test
-#### Coffee Prices paid to producers by coffee type
+# Visualizations
+
+## Coffee Prices to Producers by Type
 
 ![](Farmgate_Data/output_files/colombian-milds-1990-2018.png)
 ![](Farmgate_Data/output_files/other-milds-1990-2018.png)
