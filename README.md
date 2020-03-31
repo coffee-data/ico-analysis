@@ -12,3 +12,8 @@ To keep the visualizations consistent, I changed US dollar values to US cents va
 Because we are looking at y_value over time (1990-2018), a line graph was best suited for a first glance. 
 
 To be continued...
+
+![](Farmgate_Data/output_files/colombian-milds-1990-2018.png)
+![](Farmgate_Data/output_files/other-milds-1990-2018.png)
+![](Farmgate_Data/output_files/brazilian-naturals-1990-2018.png)
+![](Farmgate_Data/output_files/robustas-1990-2018.png)
