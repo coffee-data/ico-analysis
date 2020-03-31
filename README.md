@@ -15,6 +15,8 @@ Because we are looking at y_value over time (1990-2018), a line graph was best s
 
 To be continued...
 
+### Data Set A - Visualizing coffee prices paid to producers based on coffee type.
+
 ![](Farmgate_Data/output_files/colombian-milds-1990-2018.png)
 ![](Farmgate_Data/output_files/other-milds-1990-2018.png)
 ![](Farmgate_Data/output_files/brazilian-naturals-1990-2018.png)
