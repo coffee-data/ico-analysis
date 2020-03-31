@@ -4,7 +4,7 @@ The International Coffee Organization (ICO) is one of coffee's oldest data colle
 An important glossary of terms is located here: http://www.ico.org/glossary.asp
 
 ### Index of Visualizations
-[A. Coffee Price to Producers by Type](#Coffee-Price-to-Producers-by-Type)
+[A. Coffee Price to Producers by Type](#Coffee-Prices-to-Producers-by-Type)
 
 ## Step 1 - Clean the data.
 Because the data source was available in .xlsx with an obvious presentation purpose in mind, the data had to be sepatrated into new sheets with specified categories and saved as .csv. With Python and Jupyter Notebooks, the data was further cleaned and then prepared for some plotting with MatplotLib.
