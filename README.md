@@ -4,7 +4,7 @@ The International Coffee Organization (ICO) is one of coffee's oldest data colle
 An important glossary of terms is located here: http://www.ico.org/glossary.asp
 
 ### Index of Visualizations
-* [Hello Coffee Price to Producers by Type](#Coffee-Prices-to-Producers-by-Type);
+* [A. Coffee Price to Producers by Type](#Coffee-Prices-to-Producers-by-Type);
   * [1. Colombian Milds](#colombian-milds)
   * [2. Other Milds](#other-milds)
   * [3. Brazlilian Naturals](#brazilian-naturals)
