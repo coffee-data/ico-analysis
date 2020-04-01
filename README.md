@@ -8,11 +8,14 @@ The International Coffee Organization (ICO) is one of coffee's oldest coffee dat
 An important glossary of terms is located here: http://www.ico.org/glossary.asp
 
 ### Index of Visualizations
-* [A. Coffee Price to Producers by Type](#Coffee-Prices-to-Producers-by-Type);
+* [A. Coffee Price to Producers by Type](#Coffee-Prices-to-Producers-by-Type)
   * [1. Colombian Milds](#colombian-milds)
   * [2. Other Milds](#other-milds)
   * [3. Brazlilian Naturals](#brazilian-naturals)
   * [4. Robustas](#robustas)
+ * [B. Average Annual Retail Prices](#Average-Annual-Retail-Prices)
+   * [1. 1990-2018](#1990-2018)
+   * [2. Decade](#1998-2018)
 
 ## Step 1 - Clean the data.
 Because the data source was available in .xlsx with an obvious presentation purpose in mind, the data had to be sepatrated into new sheets with specified categories and saved as .csv. With Python and Jupyter Notebooks, the data was further cleaned and then prepared for some plotting with MatplotLib.
@@ -31,13 +34,21 @@ To be continued...
 ## Coffee Prices to Producers by Type
 
 ### Colombian Milds
-![](Farmgate_Data/output_files/colombian-milds-1990-2018.png)
+![](farmgate_data/output_files/colombian-milds-1990-2018.png)
 
 ### Other Milds
 ![](Farmgate_Data/output_files/other-milds-1990-2018.png)
 
 ### Brazilian Naturals
-![](Farmgate_Data/output_files/brazilian-naturals-1990-2018.png)
+![](farmgate_data/output_files/brazilian-naturals-1990-2018.png)
 
 ### Robustas
-![](Farmgate_Data/output_files/robustas-1990-2018.png)
+![](farmgate_data/output_files/robustas-1990-2018.png)
+
+## Average Annual Retail Prices
+
+### 1990-2018
+![](retail_prices/output_files/retail-prices-all-years-1990-2018.png)
+
+### 1998-2018
+![](retail_prices/output_files/retail-prices-decade-1998-2018.png)
