@@ -34,16 +34,16 @@ To be continued...
 ## Coffee Prices to Producers by Type
 
 ### Colombian Milds
-![](farmgate_data/output_files/colombian-milds-1990-2018.png)
+![](farmgate_prices/output_files/colombian-milds-1990-2018.png)
 
 ### Other Milds
-![](Farmgate_Data/output_files/other-milds-1990-2018.png)
+![](farmgate_prices/output_files/other-milds-1990-2018.png)
 
 ### Brazilian Naturals
-![](farmgate_data/output_files/brazilian-naturals-1990-2018.png)
+![](farmgate_prices/output_files/brazilian-naturals-1990-2018.png)
 
 ### Robustas
-![](farmgate_data/output_files/robustas-1990-2018.png)
+![](farmgate_prices/output_files/robustas-1990-2018.png)
 
 ## Average Annual Retail Prices
 
